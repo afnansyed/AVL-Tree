@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xiapi/CLionProjects/COP3530/Project1/main.cpp
+iostream
+-
+algorithm
+-
+queue
+-
+sstream
+-
+string
+-
+regex
+-
+iomanip
+-
+
